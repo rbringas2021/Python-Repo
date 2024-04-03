@@ -1,7 +1,6 @@
 # Python-Repo
 
 Rodrigo M. Bringas \
-rmbringas@gmail.com \
+rbringas@salesforce.com \
 linkedin \
 Systems Engineering Engineer \
-Curso : Python (CoderHouse) \
